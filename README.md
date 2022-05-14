@@ -1,6 +1,6 @@
 [![Yechen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechens)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🍉 公众号：**NLP情报局**
+- 🍉 公众号：**Giant Xu**
 - 🍎 知乎：**[Giant](https://www.zhihu.com/people/giant_panda)**
 - 🍇 研究方向：对话系统、Text2SQL
 - 🍊 个人微信：cs-yechen
