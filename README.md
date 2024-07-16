@@ -2,7 +2,7 @@
 
 - 🍉 公众号：**Giant Xu**
 - 🍎 知乎：**[Giant](https://www.zhihu.com/people/giant_panda)**
-- 🍇 研究方向：Dialog System, Text2SQL, Object Detection, KeyPoint Detection, Offline Reinforcement Learning
+- 🍇 研究方向：Dialog System, Text2SQL, Object Detection, Offline Reinforcement Learning
 - 🍊 个人微信：cs-yechen
 - 🍑 字节跳动、阿里、拼多多、百度、网易等大厂持续内推中，加我VX进内部交流群
 
